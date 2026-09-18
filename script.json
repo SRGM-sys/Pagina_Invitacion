@@ -1,0 +1,296 @@
+[
+    {
+        "start": 3.0,
+        "duration": 1.0,
+        "type": "number",
+        "text": "1 2 3"
+    },
+    {
+        "start": 4.2,
+        "duration": 1.0,
+        "type": "number",
+        "text": "4 5 6"
+    },
+    {
+        "start": 5.2,
+        "duration": 1.5,
+        "type": "number",
+        "text": "7 8 9"
+    },
+    {
+        "start": 7.0,
+        "duration": 2.0,
+        "type": "reason",
+        "text": "Me encantas, Fiorella."
+    },
+    {
+        "start": 10.2,
+        "duration": 2.0,
+        "type": "reason",
+        "text": "Me encantas, Fiorella."
+    },
+    {
+        "start": 15.0,
+        "duration": 0.8,
+        "type": "number",
+        "text": "NUMBER 1!"
+    },
+    {
+        "start": 16.0,
+        "duration": 2.0,
+        "type": "reason",
+        "text": "Tu sonrisa me lleva a la acción."
+    },
+    {
+        "start": 18.2,
+        "duration": 2.8,
+        "type": "reason",
+        "text": "Si te ríes junto a mí, no hay mejor reacción."
+    },
+    {
+        "start": 21.0,
+        "duration": 0.8,
+        "type": "number",
+        "text": "NUMBER 2!"
+    },
+    {
+        "start": 22.0,
+        "duration": 2.0,
+        "type": "reason",
+        "text": "Tu mirada, cuando estamos solos tú y yo."
+    },
+    {
+        "start": 24.2,
+        "duration": 3.0,
+        "type": "reason",
+        "text": "Tus ojos me fascinan siempre que escucho tu voz."
+    },
+    {
+        "start": 27.4,
+        "duration": 0.8,
+        "type": "number",
+        "text": "NUMBER 3!"
+    },
+    {
+        "start": 28.3,
+        "duration": 2.0,
+        "type": "reason",
+        "text": "Nuestras charlas, cara a cara los dos,"
+    },
+    {
+        "start": 30.4,
+        "duration": 0.8,
+        "type": "reason",
+        "text": "divirtiéndonos,"
+    },
+    {
+        "start": 31.4,
+        "duration": 2.2,
+        "type": "reason",
+        "text": "o también demostrándonos amor."
+    },
+    {
+        "start": 34.0,
+        "duration": 2.4,
+        "type": "reason",
+        "text": "Esto es muy común, especialmente entre los dos."
+    },
+    {
+        "start": 36.6,
+        "duration": 3.0,
+        "type": "reason",
+        "text": "Todos los desacuerdos se resuelven sin disparos."
+    },
+    {
+        "start": 39.8,
+        "duration": 0.8,
+        "type": "number",
+        "text": "NUMBER 4!"
+    },
+    {
+        "start": 40.6,
+        "duration": 2.0,
+        "type": "reason",
+        "text": "Tus abrazos diciéndome que todo estará bien,"
+    },
+    {
+        "start": 43.0,
+        "duration": 2.9,
+        "type": "reason",
+        "text": "tiempo donde cargo mis energías junto a ti."
+    },
+    {
+        "start": 46.0,
+        "duration": 2.8,
+        "type": "reason",
+        "text": "Me das tanta paz, tanta tranquilidad."
+    },
+    {
+        "start": 49.0,
+        "duration": 2.5,
+        "type": "reason",
+        "text": "Mi cabeza da vueltas diciendo que no te alejes."
+    },
+    {
+        "start": 52.0,
+        "duration": 0.8,
+        "type": "number",
+        "text": "FIVE!"
+    },
+    {
+        "start": 53.0,
+        "duration": 1.8,
+        "type": "reason",
+        "text": "Tu cariño, tan grande como el cielo,"
+    },
+    {
+        "start": 55.2,
+        "duration": 2.7,
+        "type": "number",
+        "text": "hace que quiera morir en tus brazos."
+    },
+    {
+        "start": 58.0,
+        "duration": 0.8,
+        "type": "number",
+        "text": "NUMBER 6!"
+    },
+    {
+        "start": 59.0,
+        "duration": 1.7,
+        "type": "reason",
+        "text": "Tu paciencia para hacerme entender."
+    },
+    {
+        "start": 61.0,
+        "duration": 1.0,
+        "type": "reason",
+        "text": "Eres tú la magia"
+    },
+    {
+        "start": 62.2,
+        "duration": 1.8,
+        "type": "reason",
+        "text": "que me hace volver a creer."
+    },
+    {
+        "start": 64.2,
+        "duration": 0.8,
+        "type": "number",
+        "text": "SEVEN!"
+    },
+    {
+        "start": 64.2,
+        "duration": 0.8,
+        "type": "number",
+        "text": "SEVEN!"
+    },
+    {
+        "start": 65.2,
+        "duration": 0.8,
+        "type": "reason",
+        "text": "Confesándome a ti."
+    },
+    {
+        "start": 66.2,
+        "duration": 1.8,
+        "type": "reason",
+        "text": "Tu cuerpo es realmente insuperable."
+    },
+    {
+        "start": 68.2,
+        "duration": 1.8,
+        "type": "reason",
+        "text": "A mi manera de ver, no tienes rival."
+    },
+    {
+        "start": 70.0,
+        "duration": 0.8,
+        "type": "number",
+        "text": "NUMBER 8!"
+    },
+    {
+        "start": 71.0,
+        "duration": 1.9,
+        "type": "reason",
+        "text": "Tu ternura y forma de amar."
+    },
+    {
+        "start": 73.0,
+        "duration": 1.6,
+        "type": "reason",
+        "text": "Eres muy especial."
+    },
+    {
+        "start": 74.8,
+        "duration": 2.5,
+        "type": "reason",
+        "text": "Esto parece un sueño, no quiero despertar."
+    },
+    {
+        "start": 77.5,
+        "duration": 16.0,
+        "type": "flower",
+        "text": ""
+    },
+    {
+        "start": 95.0,
+        "duration": 0.8,
+        "type": "number",
+        "text": "NUMBER 9!"
+    },
+    {
+        "start": 95.0,
+        "duration": 0.8,
+        "type": "number",
+        "text": "NUMBER 9!"
+    },
+    {
+        "start": 96.0,
+        "duration": 1.8,
+        "type": "reason",
+        "text": "Es tu alma tan sincera y transparente,"
+    },
+    {
+        "start": 98.0,
+        "duration": 2.5,
+        "type": "reason",
+        "text": "que me hace querer amarte incondicionalmente."
+    },
+    {
+        "start": 101.0,
+        "duration": 0.5,
+        "type": "number",
+        "text": "COUNT"
+    },
+    {
+        "start": 101.5,
+        "duration": 1.0,
+        "type": "number",
+        "text": "1 2 3"
+    },
+    {
+        "start": 102.5,
+        "duration": 1.0,
+        "type": "number",
+        "text": "4 5 6"
+    },
+    {
+        "start": 103.5,
+        "duration": 1.5,
+        "type": "number",
+        "text": "7 8 9"
+    },
+    {
+        "start": 105.0,
+        "duration": 0.8,
+        "type": "number",
+        "text": "NUMBER 10!"
+    },
+    {
+        "start": 106.0,
+        "duration": 0.8,
+        "type": "number",
+        "text": "¡TE AMO!"
+    }
+]
